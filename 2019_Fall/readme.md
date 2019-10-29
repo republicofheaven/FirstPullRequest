@@ -60,9 +60,9 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Huang, Xiaoxiao
 
-- [X] Ishii, Yuri(@yuri-ishii)
+- [X] Ishii, Yuri (@yuri-ishii)
 
-- [ ] Johnson, Benny
+- [X] Johnson, Benny (@republicofheaven)
 
 - [X] Kawatra, Aanchal (@aanchalkawatra)
 
